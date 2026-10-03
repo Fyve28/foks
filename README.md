@@ -8,15 +8,15 @@ Foks is a fictional brand identity created as part of an art course assignment. 
 
 ## 📋Graafinen Ohjeisto / Graphic Instruction
 
-Graafinen ohjeisto löytyy [täältä](https://acrobat.adobe.com/id/urn:aaid:sc:AP:dc15ee8b-fdcc-4a38-a4e4-89ded0e64f63) tai itse GitHub-repositoriosta.
+Graafinen ohjeisto löytyy [täältä](https://pdflink.to/885e9faf/) tai itse GitHub-repositoriosta.
 
-The graphical instructions can be found [here](https://acrobat.adobe.com/id/urn:aaid:sc:AP:dc15ee8b-fdcc-4a38-a4e4-89ded0e64f63) or in the GitHub repository itself.
+The graphical instructions can be found [here](https://pdflink.to/885e9faf/) or in the GitHub repository itself.
 
 ## 📁 Ladattavat Tiedostot / Downloadable Materials
 
-Voit ladata kaikki graafisessa ohjeistossa näkyvät variaatiot [täältä](https://acrobat.adobe.com/id/urn:aaid:sc:AP:4d650dc2-b1c4-4193-80a5-b48e5d404508).
+Voit ladata kaikki graafisessa ohjeistossa näkyvät variaatiot [täältä](https://acrobat.adobe.com/id/urn:aaid:sc:AP:4d650dc2-b1c4-4193-80a5-b48e5d404508) tai itse GitHub-repositoriosta.
 
-You can download all the variations shown in the graphic instructions [here](https://acrobat.adobe.com/id/urn:aaid:sc:AP:4d650dc2-b1c4-4193-80a5-b48e5d404508).
+You can download all the variations shown in the graphic instructions [here](https://acrobat.adobe.com/id/urn:aaid:sc:AP:4d650dc2-b1c4-4193-80a5-b48e5d404508) or in the GitHub repository itself.
 
 ## 🎬 Kulissien Takana / Behind the Scenes
 

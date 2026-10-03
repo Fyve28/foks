@@ -14,9 +14,9 @@ The graphical instructions can be found [here](https://acrobat.adobe.com/id/urn:
 
 ## 📁 Ladattavat Tiedostot / Downloadable Materials
 
-Voit ladata kaikki graafisessa ohjeistossa näkyvät variaatiot [täältä](https://drive.google.com/drive/folders/1wpWKG6m378JQQ4rJKGMvbyUNtqO4XvLC?usp=sharing).
+Voit ladata kaikki graafisessa ohjeistossa näkyvät variaatiot [täältä](https://acrobat.adobe.com/id/urn:aaid:sc:AP:4d650dc2-b1c4-4193-80a5-b48e5d404508).
 
-You can download all the variations shown in the graphic instructions [here](https://drive.google.com/drive/folders/1wpWKG6m378JQQ4rJKGMvbyUNtqO4XvLC?usp=sharing).
+You can download all the variations shown in the graphic instructions [here](https://acrobat.adobe.com/id/urn:aaid:sc:AP:4d650dc2-b1c4-4193-80a5-b48e5d404508).
 
 ## 🎬 Kulissien Takana / Behind the Scenes
 

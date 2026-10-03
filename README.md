@@ -31,7 +31,10 @@ This design is distributed under the Creative Commons Attribution-NonCommercial 
 ## Misc.
 
 Kielimuoto / Language format: FI / EN
+
 FI Kielimuoto
+
 EN Language format
+
 
 Made by Fyve28.

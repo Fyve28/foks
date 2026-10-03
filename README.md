@@ -38,3 +38,5 @@ EN Language format
 
 
 Made by Fyve28.
+
+Special thanks to Nashi (my friend) for helping me out with this project \ :D /

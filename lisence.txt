@@ -2,7 +2,7 @@ FOKS — LICENSE
 Creative Commons Attribution-NonCommercial 4.0 International
 (CC BY-NC 4.0)
 
-Copyright © 2026 Foks / [Your Name]
+Copyright © 2026 Foks / Fyve28
 
 ---
 
@@ -43,7 +43,7 @@ appropriate credit must be given to the original creator.
 
 A reasonable attribution should include:
 
-- The name of the creator: [Your Name]
+- The name of the creator: Fyve28
 - The name of the work: Foks
 - A reference to the CC BY-NC 4.0 license
 - A link to the license:

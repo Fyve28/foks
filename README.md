@@ -4,7 +4,7 @@ Foks on kuvitteellinen brändi-identiteetti, joka luotiin osana taidekurssin teh
 
 Foks is a fictional brand identity created as part of an art course assignment. This archive contains the brand's visual identity, graphic guidelines, and downloadable materials.
 
-![Foks logo](Lataa/foks logo.png)
+![Foks logo](Lataa/foks_logo.png)
 
 ## 📋Graafinen Ohjeisto / Graphic Instruction
 

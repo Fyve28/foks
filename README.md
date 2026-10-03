@@ -1,6 +1,6 @@
 # 🦊 Foks | Taidetehtävä / Foks | Art Assignment
 
-Foks on kuvitteellinen brändi-identiteetti, joka luotiin osana taidekurssin tehtävää. Tämä arkisto sisältää brändin visuaalisen identiteetin, graafiset ohjeet ja ladattavia materiaaleja.
+Foks on kuvitteellinen brändi-identiteetti, joka luotiin osana taidekurssin tehtävää. Tämä arkisto sisältää brändin visuaalisen identiteetin, graafiset ohjeet ja ladattavat tiedostot.
 
 Foks is a fictional brand identity created as part of an art course assignment. This archive contains the brand's visual identity, graphic guidelines, and downloadable materials.
 

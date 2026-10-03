@@ -1,0 +1,145 @@
+FOKS — LICENSE
+Creative Commons Attribution-NonCommercial 4.0 International
+(CC BY-NC 4.0)
+
+Copyright © 2026 Foks / [Your Name]
+
+---
+
+ABOUT THIS LICENSE
+
+The Foks brand identity and associated design materials in this repository
+are made available under the Creative Commons Attribution-NonCommercial 4.0
+International license (CC BY-NC 4.0).
+
+This license allows others to freely use, copy, share, modify, and build upon
+the design for non-commercial purposes, provided that appropriate credit is
+given to the original creator.
+
+Full license:
+https://creativecommons.org/licenses/by-nc/4.0/
+
+---
+
+WHAT YOU ARE ALLOWED TO DO
+
+Under CC BY-NC 4.0, you may:
+
+- Copy and redistribute the design in any medium or format.
+- Modify, remix, transform, recolor, rearrange, or otherwise adapt the design.
+- Create new works based on the design.
+- Use the design for personal, educational, artistic, and other
+  non-commercial purposes.
+- Share modified versions of the design.
+
+These permissions apply as long as the terms of the license are followed.
+
+---
+
+ATTRIBUTION
+
+When sharing or publishing the design, or a modified version of it,
+appropriate credit must be given to the original creator.
+
+A reasonable attribution should include:
+
+- The name of the creator: [Your Name]
+- The name of the work: Foks
+- A reference to the CC BY-NC 4.0 license
+- A link to the license:
+  https://creativecommons.org/licenses/by-nc/4.0/
+- An indication of whether modifications were made
+
+For example:
+
+"Foks" by Fyve28, licensed under CC BY-NC 4.0.
+Modified from the original design.
+
+Attribution does not have to follow this exact wording. The license allows
+credit to be provided in a reasonable manner appropriate to the medium and
+context.
+
+---
+
+NON-COMMERCIAL USE
+
+The design may not be used for purposes that are primarily intended for
+commercial advantage or monetary compensation.
+
+Examples of generally non-commercial use may include:
+
+- Personal projects
+- School and university projects
+- Non-commercial artwork
+- Personal websites
+- Educational materials
+- Non-commercial fan or community projects
+
+Commercial use is not permitted under this license.
+
+If you wish to use the design commercially, please contact the creator
+separately to request permission.
+
+---
+
+MODIFICATIONS
+
+You are allowed to modify the design.
+
+You may, for example:
+
+- Change its colors
+- Change its proportions
+- Crop or rearrange elements
+- Combine it with other artwork
+- Create derivative designs
+- Adapt it for different formats or media
+
+If you share a modified version, you must indicate that changes were made
+and retain appropriate attribution to the original work.
+
+---
+
+NO ENDORSEMENT
+
+Use of the Foks design does not imply that the original creator endorses,
+sponsors, or is otherwise associated with the person, organization, product,
+or project using the design.
+
+---
+
+NO ADDITIONAL RESTRICTIONS
+
+You may not apply additional legal or technological restrictions that prevent
+others from exercising the rights granted by this license.
+
+---
+
+DISCLAIMER
+
+The design is provided "as-is" and "as-available." To the extent permitted
+by law, the creator provides no warranties regarding the design and accepts
+no liability for damages arising from its use.
+
+The Creative Commons license does not necessarily grant permission for rights
+other than those controlled by the creator, such as trademark, privacy,
+publicity, or other rights belonging to third parties.
+
+---
+
+IMPORTANT
+
+This file provides an informal summary of the license as it applies to the
+Foks project. It does not replace the official Creative Commons legal code.
+
+The complete legal terms of CC BY-NC 4.0 are available at:
+
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+The official Creative Commons license terms take precedence over this
+summary.
+
+License: Creative Commons Attribution-NonCommercial 4.0 International
+(CC BY-NC 4.0)
+
+https://creativecommons.org/licenses/by-nc/4.0/

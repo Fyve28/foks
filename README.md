@@ -1,2 +1,37 @@
-# foks
-art assignment
+# Foks | Taidetehtävä / Foks | Art Assignment
+
+Foks on kuvitteellinen brändi-identiteetti, joka luotiin osana taidekurssin tehtävää. Tämä arkisto sisältää brändin visuaalisen identiteetin, graafiset ohjeet ja ladattavia materiaaleja.
+
+Foks is a fictional brand identity created as part of an art course assignment. This archive contains the brand's visual identity, graphic guidelines, and downloadable materials.
+
+![Foks logo](foks/Lataa/foks logo.png)
+
+## 📋Graafinen Ohjeisto / Graphic Instruction
+
+Graafinen ohjeisto löytyy [täältä](https://acrobat.adobe.com/id/urn:aaid:sc:AP:dc15ee8b-fdcc-4a38-a4e4-89ded0e64f63) tai itse GitHub-repositoriosta.
+
+The graphical instructions can be found [here](https://acrobat.adobe.com/id/urn:aaid:sc:AP:dc15ee8b-fdcc-4a38-a4e4-89ded0e64f63) or in the GitHub repository itself.
+
+## 📁 Ladattavat Tiedostot / Downloadable Materials
+
+Voit ladata kaikki graafisessa ohjeistossa näkyvät variaatiot [täältä](https://drive.google.com/drive/folders/1wpWKG6m378JQQ4rJKGMvbyUNtqO4XvLC?usp=sharing).
+
+You can download all the variations shown in the graphic instructions [here](https://drive.google.com/drive/folders/1wpWKG6m378JQQ4rJKGMvbyUNtqO4XvLC?usp=sharing).
+
+## 🎬 Kulissien Takana / Behind The Scene
+
+![Video](foks/ignore/5i_ic1PrYz0-HQ.jpg)(https://youtu.be/5i_ic1PrYz0)
+
+## ⚠️ Lisenssi / License ⚠️
+
+Tämä suunnittelu on jaettu Creative Commons Nimeä-EiKaupallinen 4.0 Kansainvälinen -lisenssillä. Lisätietoja on osoitteessa `license.txt`.
+
+This design is distributed under the Creative Commons Attribution-NonCommercial 4.0 International. Read `license.txt` for more information.
+
+## Misc.
+
+Kielimuoto / Language format: FI / EN
+FI Kielimuoto
+EN Language format
+
+Made by Fyve28.

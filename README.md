@@ -1,4 +1,4 @@
-# Foks | Taidetehtävä / Foks | Art Assignment
+# 🦊 Foks | Taidetehtävä / Foks | Art Assignment
 
 Foks on kuvitteellinen brändi-identiteetti, joka luotiin osana taidekurssin tehtävää. Tämä arkisto sisältää brändin visuaalisen identiteetin, graafiset ohjeet ja ladattavia materiaaleja.
 
